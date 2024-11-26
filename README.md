@@ -18,3 +18,6 @@ Run `make`
 # Dependencies
 - C compiler
 - C standard library
+
+# Credits
+https://www.youtube.com/watch?v=NLk7nWt7On0
